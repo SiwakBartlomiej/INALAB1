@@ -1,0 +1,16 @@
+C:\Users\Z6BJS\source\repos\INA_LAB1_ALG_GEN_V2\INA_LAB1_ALG_GEN_V2\bin\Debug\net7.0-windows\INA_LAB1_ALG_GEN_V2.exe
+C:\Users\Z6BJS\source\repos\INA_LAB1_ALG_GEN_V2\INA_LAB1_ALG_GEN_V2\bin\Debug\net7.0-windows\INA_LAB1_ALG_GEN_V2.deps.json
+C:\Users\Z6BJS\source\repos\INA_LAB1_ALG_GEN_V2\INA_LAB1_ALG_GEN_V2\bin\Debug\net7.0-windows\INA_LAB1_ALG_GEN_V2.runtimeconfig.json
+C:\Users\Z6BJS\source\repos\INA_LAB1_ALG_GEN_V2\INA_LAB1_ALG_GEN_V2\bin\Debug\net7.0-windows\INA_LAB1_ALG_GEN_V2.dll
+C:\Users\Z6BJS\source\repos\INA_LAB1_ALG_GEN_V2\INA_LAB1_ALG_GEN_V2\bin\Debug\net7.0-windows\INA_LAB1_ALG_GEN_V2.pdb
+C:\Users\Z6BJS\source\repos\INA_LAB1_ALG_GEN_V2\INA_LAB1_ALG_GEN_V2\obj\Debug\net7.0-windows\INA_LAB1_ALG_GEN_V2.Form1.resources
+C:\Users\Z6BJS\source\repos\INA_LAB1_ALG_GEN_V2\INA_LAB1_ALG_GEN_V2\obj\Debug\net7.0-windows\INA_LAB1_ALG_GEN_V2.csproj.GenerateResource.cache
+C:\Users\Z6BJS\source\repos\INA_LAB1_ALG_GEN_V2\INA_LAB1_ALG_GEN_V2\obj\Debug\net7.0-windows\INA_LAB1_ALG_GEN_V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z6BJS\source\repos\INA_LAB1_ALG_GEN_V2\INA_LAB1_ALG_GEN_V2\obj\Debug\net7.0-windows\INA_LAB1_ALG_GEN_V2.AssemblyInfoInputs.cache
+C:\Users\Z6BJS\source\repos\INA_LAB1_ALG_GEN_V2\INA_LAB1_ALG_GEN_V2\obj\Debug\net7.0-windows\INA_LAB1_ALG_GEN_V2.AssemblyInfo.cs
+C:\Users\Z6BJS\source\repos\INA_LAB1_ALG_GEN_V2\INA_LAB1_ALG_GEN_V2\obj\Debug\net7.0-windows\INA_LAB1_ALG_GEN_V2.csproj.CoreCompileInputs.cache
+C:\Users\Z6BJS\source\repos\INA_LAB1_ALG_GEN_V2\INA_LAB1_ALG_GEN_V2\obj\Debug\net7.0-windows\INA_LAB1_ALG_GEN_V2.dll
+C:\Users\Z6BJS\source\repos\INA_LAB1_ALG_GEN_V2\INA_LAB1_ALG_GEN_V2\obj\Debug\net7.0-windows\refint\INA_LAB1_ALG_GEN_V2.dll
+C:\Users\Z6BJS\source\repos\INA_LAB1_ALG_GEN_V2\INA_LAB1_ALG_GEN_V2\obj\Debug\net7.0-windows\INA_LAB1_ALG_GEN_V2.pdb
+C:\Users\Z6BJS\source\repos\INA_LAB1_ALG_GEN_V2\INA_LAB1_ALG_GEN_V2\obj\Debug\net7.0-windows\INA_LAB1_ALG_GEN_V2.genruntimeconfig.cache
+C:\Users\Z6BJS\source\repos\INA_LAB1_ALG_GEN_V2\INA_LAB1_ALG_GEN_V2\obj\Debug\net7.0-windows\ref\INA_LAB1_ALG_GEN_V2.dll
